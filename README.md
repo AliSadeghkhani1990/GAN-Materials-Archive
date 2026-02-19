@@ -132,7 +132,7 @@ If you use the data or resources in this repository, please cite our paper:
   title   = {A Decade of Generative Adversarial Networks for Porous Material Reconstruction},
   author  = {Sadeghkhani, Ali and Bennett, Brandon and Babaei, Masoud and Rabbani, Arash},
   journal = {[Journal Name]},
-  year    = {2025},
+  year    = {2026},
   doi     = {[DOI]}
 }
 ```
