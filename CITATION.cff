@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following paper."
+title: "GAN-Materials-Archive"
+abstract: "Supplementary data repository for the systematic review: A Decade of Generative Adversarial Networks for Porous Material Reconstruction. Contains compiled Excel datasets of 95 reviewed papers and a curated list of open-source implementations."
+authors:
+  - family-names: Sadeghkhani
+    given-names: Ali
+    affiliation: "School of Computer Science, University of Leeds"
+  - family-names: Bennett
+    given-names: Brandon
+    affiliation: "School of Computer Science, University of Leeds"
+  - family-names: Babaei
+    given-names: Masoud
+    affiliation: "School of Chemical Engineering, The University of Manchester"
+  - family-names: Rabbani
+    given-names: Arash
+    affiliation: "School of Computer Science, University of Leeds"
+    email: a.rabbani@leeds.ac.uk
+preferred-citation:
+  type: article
+  title: "A Decade of Generative Adversarial Networks for Porous Material Reconstruction"
+  authors:
+    - family-names: Sadeghkhani
+      given-names: Ali
+    - family-names: Bennett
+      given-names: Brandon
+    - family-names: Babaei
+      given-names: Masoud
+    - family-names: Rabbani
+      given-names: Arash
+  journal: "[Journal Name]"
+  year: 2025
+  doi: "[DOI]"
+license: CC-BY-4.0
+repository-code: "https://github.com/AliSadeghkhani1990/GAN-Materials-Archive"
+keywords:
+  - Generative Adversarial Networks
+  - Porous Media Reconstruction
+  - Digital Rock Physics
+  - Deep Learning
+  - Microstructure Analysis
+  - Systematic Review
