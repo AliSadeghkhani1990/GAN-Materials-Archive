@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the following paper."
 title: "GAN-Materials-Archive"
-abstract: "Supplementary data repository for the systematic review: A Decade of Generative Adversarial Networks for Porous Material Reconstruction. Contains compiled Excel datasets of 95 reviewed papers and a curated list of open-source implementations."
+abstract: "Supplementary data repository for the systematic review: A Decade of Generative Adversarial Networks for Porous Material Reconstruction. Contains compiled Excel datasets of 96 reviewed papers and a curated list of open-source implementations."
 authors:
   - family-names: Sadeghkhani
     given-names: Ali
@@ -28,9 +28,9 @@ preferred-citation:
       given-names: Masoud
     - family-names: Rabbani
       given-names: Arash
-  journal: "[Journal Name]"
-  year: 2025
-  doi: "[DOI]"
+  journal: "arXiv preprint arXiv:2603.11836"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.11836"
 license: CC-BY-4.0
 repository-code: "https://github.com/AliSadeghkhani1990/GAN-Materials-Archive"
 keywords:
