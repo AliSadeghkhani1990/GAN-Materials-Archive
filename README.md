@@ -128,12 +128,12 @@ Below is a curated list of all publicly available code repositories identified i
 If you use the data or resources in this repository, please cite our paper:
 
 ```bibtex
-@article{Sadeghkhani2025GANReview,
+@article{Sadeghkhani2026GANReview,
   title   = {A Decade of Generative Adversarial Networks for Porous Material Reconstruction},
   author  = {Sadeghkhani, Ali and Bennett, Brandon and Babaei, Masoud and Rabbani, Arash},
-  journal = {[Journal Name]},
+  journal = {arXiv preprint arXiv:2603.11836},
   year    = {2026},
-  doi     = {[DOI]}
+  url     = {https://arxiv.org/abs/2603.11836}
 }
 ```
 
